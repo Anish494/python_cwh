@@ -1,0 +1,2 @@
+import mainanish
+mainanish.welcome()
